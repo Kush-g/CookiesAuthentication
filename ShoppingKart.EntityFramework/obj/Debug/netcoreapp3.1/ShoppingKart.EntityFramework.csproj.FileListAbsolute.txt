@@ -1,0 +1,12 @@
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.EntityFramework\bin\Debug\netcoreapp3.1\ShoppingKart.EntityFramework.deps.json
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.EntityFramework\bin\Debug\netcoreapp3.1\ShoppingKart.EntityFramework.dll
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.EntityFramework\bin\Debug\netcoreapp3.1\ShoppingKart.EntityFramework.pdb
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.EntityFramework\bin\Debug\netcoreapp3.1\ShoppingKart.Core.dll
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.EntityFramework\bin\Debug\netcoreapp3.1\ShoppingKart.Core.pdb
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.EntityFramework\obj\Debug\netcoreapp3.1\ShoppingKart.EntityFramework.csprojAssemblyReference.cache
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.EntityFramework\obj\Debug\netcoreapp3.1\ShoppingKart.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.EntityFramework\obj\Debug\netcoreapp3.1\ShoppingKart.EntityFramework.AssemblyInfoInputs.cache
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.EntityFramework\obj\Debug\netcoreapp3.1\ShoppingKart.EntityFramework.AssemblyInfo.cs
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.EntityFramework\obj\Debug\netcoreapp3.1\ShoppingKart.EntityFramework.csproj.CopyComplete
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.EntityFramework\obj\Debug\netcoreapp3.1\ShoppingKart.EntityFramework.dll
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.EntityFramework\obj\Debug\netcoreapp3.1\ShoppingKart.EntityFramework.pdb

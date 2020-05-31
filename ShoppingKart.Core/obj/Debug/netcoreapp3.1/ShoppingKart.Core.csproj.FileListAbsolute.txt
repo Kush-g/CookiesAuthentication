@@ -1,0 +1,12 @@
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.Core\bin\Debug\netcoreapp3.1\ShoppingKart.Core.deps.json
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.Core\bin\Debug\netcoreapp3.1\ShoppingKart.Core.runtimeconfig.json
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.Core\bin\Debug\netcoreapp3.1\ShoppingKart.Core.runtimeconfig.dev.json
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.Core\bin\Debug\netcoreapp3.1\ShoppingKart.Core.dll
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.Core\bin\Debug\netcoreapp3.1\ShoppingKart.Core.pdb
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.Core\obj\Debug\netcoreapp3.1\ShoppingKart.Core.csprojAssemblyReference.cache
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.Core\obj\Debug\netcoreapp3.1\ShoppingKart.Core.csproj.CoreCompileInputs.cache
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.Core\obj\Debug\netcoreapp3.1\ShoppingKart.Core.AssemblyInfoInputs.cache
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.Core\obj\Debug\netcoreapp3.1\ShoppingKart.Core.AssemblyInfo.cs
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.Core\obj\Debug\netcoreapp3.1\ShoppingKart.Core.dll
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.Core\obj\Debug\netcoreapp3.1\ShoppingKart.Core.pdb
+C:\Downloads\CookieAuthenticationDemo\ShoppingKart.Core\obj\Debug\netcoreapp3.1\ShoppingKart.Core.genruntimeconfig.cache
